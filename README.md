@@ -16,4 +16,5 @@ The following analysis has been conducted on tweets regarding the different issu
 * ###### Natural Language Tool Kit (NLTK)
 
 ## Results
-The confusion matrix obtained after the analysis~
+#### The confusion matrix obtained after the analysis
+![Confusion Matrix](Picture1.png)
