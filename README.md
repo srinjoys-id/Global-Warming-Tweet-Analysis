@@ -14,3 +14,6 @@ The following analysis has been conducted on tweets regarding the different issu
 * ###### Scikit Learn
 * ###### Porter Stemmer
 * ###### Natural Language Tool Kit (NLTK)
+
+## Results
+The confusion matrix obtained after the analysis~
