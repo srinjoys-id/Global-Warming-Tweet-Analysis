@@ -18,3 +18,7 @@ The following analysis has been conducted on tweets regarding the different issu
 ## Results
 #### The confusion matrix obtained after the analysis
 ![Confusion Matrix](Picture1.png)
+##### The result has been obtained using the Random Forest Classification technique but other classification models may be used in order to achieve a different accuracy.
+
+## Author
+   Srinjoy Saha
